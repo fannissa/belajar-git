@@ -1,3 +1,4 @@
+# coba nambah komentar disini
 #library
 import numpy as np
 from sklearn.externals import joblib
